@@ -16,3 +16,12 @@
   babel-node index.js
 </code>
 </pre>
+
+### mongodb
+<pre>
+<code>
+  download mongodb
+  npm i mongoose
+  cmd : mongod -> 안되면 환경변수 추가 bin
+</code>
+</pre>
